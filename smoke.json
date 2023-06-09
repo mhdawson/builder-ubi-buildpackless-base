@@ -1,0 +1,3 @@
+{
+  "procfile" :  "gcr.io/paketo-buildpacks/procfile"
+}
